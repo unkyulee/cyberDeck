@@ -82,4 +82,6 @@ It helps me keep experimenting, documenting new revisions, and sharing everythin
 
 
 
-Un Kyu Lee
+## When you can find my other works
+
+* [Un Kyu Lee's Design Gallery](https://www.yesbut.it/)
