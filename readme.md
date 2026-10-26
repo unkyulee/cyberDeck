@@ -1,5 +1,7 @@
 # CyberDeck
 
+<img src="./images/001.png" />
+
 I wanted to build a computer in a funky form factor.
 
 There is a community called [r/cyberDeck](https://www.reddit.com/r/cyberDeck/), where people build computers in rather unusual enclosures. Some look like machines a hacker might have carried around in a science fiction movie from the 80s. A lot of the aesthetic inspiration comes from what is known as [cassette futurism](https://www.reddit.com/r/cassettefuturism/). It is a vision of the future imagined in the past. Chunky buttons, mechanical switches, exposed screws, small displays, and an abundance of physical controls. 
@@ -63,10 +65,7 @@ There is almost no soldering in this build. One point, and only one. Extending t
 
 # Build Guide
 
-1) Remove the mainboard from the mini PC orginial enclosure
-2) Solder extension wires to the power button on the mother board
-3) Attach to the 3d printed enclosure
-4) Assemble Display module 
+[YouTube Video with Build Guide](https://youtu.be/EUU2UdWa4cw)
 
 
 
